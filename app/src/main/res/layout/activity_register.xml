@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:paddingHorizontal="40dp"
     android:layout_height="match_parent"
-    tools:context=".RegistrerActivity">
+    tools:context=".RegisterActivity">
 
     <ImageView
         android:layout_width="215dp"
